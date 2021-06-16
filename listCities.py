@@ -1,4 +1,4 @@
-# * Tarea - lista de ciudades.
+# * Tarea - lista de ciudades.Edit
 # * Idea: Crear una lista con nombre de ciudades y que no se repitan.
 # ? Ingresar datos | Logica: usar 'Append' y Primero ver si la ciudad existe, si no existe agregar.
 # ? Mostrar la lista
